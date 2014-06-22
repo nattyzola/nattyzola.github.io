@@ -63,3 +63,9 @@ p {
 	font-size: 18px;
 	color: #d81760;
 }
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+	max-width: 480px;
+}
