@@ -64,12 +64,28 @@ p {
 	color: #d81760;
 }
 
+/* Smartphones (landscape) ----------- */
 @media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
+and (min-width: 321px)
+and (max-width: 480px) {
 body, html {
 	max-width: 480px;
 }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width: 320px) {
+body, html {
+	max-width: 320px;
+}
+}
+
+
+@media only screen 
+and (min-device-width: 320px) 
+and (max-device-width: 480px) {
+
 #description {
 	font-size: 15px;
 	line-height: 1.6em;
