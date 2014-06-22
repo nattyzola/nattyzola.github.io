@@ -90,7 +90,7 @@ body, html {
 and (min-device-width: 320px) 
 and (max-device-width: 480px) {
 html, body {
-	padding-right: -20px;
+	margin-right: -20px;
 }
 #description {
 	font-size: 16px;
