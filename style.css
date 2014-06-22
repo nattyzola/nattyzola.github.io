@@ -74,6 +74,10 @@ html {
 	max-width: 320px;
 }
 #description {
-	font-size: 18px;
+	font-size: 15px;
+	line-height: 1.6em;
+}
+#contact {
+	font-size: 15px;
 }
 }
