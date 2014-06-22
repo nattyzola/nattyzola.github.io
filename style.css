@@ -46,7 +46,7 @@ p {
 	max-width: 460px;
 	padding: 30px 10px 50px;
 	text-align: center;
-	width: 100%;
+	/*width: 100%;*/
 }
 #photo {
 	margin: auto;
