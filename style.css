@@ -58,7 +58,11 @@ p {
 	width: 75%;
 	margin: auto;
 }
-.icon {
+.flower {
+	font-size: 28px;
+	color: #d81760;
+}
+.heart {
 	font-size: 18px;
 	color: #d81760;
 }
