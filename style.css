@@ -38,6 +38,8 @@ p {
 	height: 10px;
 	background-color: #d81760;
 	width: 100%;
+	padding: 0px;
+	margin: 0px;
 }
 #content {
 	margin: auto;
@@ -81,7 +83,7 @@ body, html {
 }
 }
 
-
+/* Phone specific styles ----------- */
 @media only screen 
 and (min-device-width: 320px) 
 and (max-device-width: 480px) {
