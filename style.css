@@ -72,6 +72,7 @@ and (min-width: 321px)
 and (max-width: 480px) {
 body, html {
 	max-width: 480px;
+	width: auto;
 }
 }
 
@@ -80,6 +81,7 @@ body, html {
 and (max-width: 320px) {
 body, html {
 	max-width: 320px;
+	width: auto;
 }
 }
 
@@ -87,7 +89,9 @@ body, html {
 @media only screen 
 and (min-device-width: 320px) 
 and (max-device-width: 480px) {
-
+body {
+	width: auto;
+}
 #description {
 	font-size: 15px;
 	line-height: 1.6em;
