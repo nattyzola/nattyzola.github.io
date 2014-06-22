@@ -68,4 +68,7 @@ and (max-device-width : 480px) {
 body {
 	max-width: 480px;
 }
+html {
+	max-width: 480px;
+}
 }
