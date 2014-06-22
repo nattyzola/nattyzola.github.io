@@ -71,8 +71,8 @@ p {
 and (min-width: 321px)
 and (max-width: 480px) {
 body, html {
-	/*max-width: 480px;*/
-	width: auto;
+	max-width: 480px;
+	/*width: auto;*/
 }
 }
 
@@ -80,8 +80,8 @@ body, html {
 @media only screen 
 and (max-width: 320px) {
 body, html {
-	/*max-width: 320px;*/
-	width: auto;
+	max-width: 320px;
+	/*width: auto;*/
 }
 }
 
@@ -90,7 +90,7 @@ body, html {
 and (min-device-width: 320px) 
 and (max-device-width: 480px) {
 #description {
-	font-size: 15px;
+	font-size: 16px;
 	line-height: 1.6em;
 }
 #contact {
