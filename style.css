@@ -67,12 +67,12 @@ p {
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
-body {
+/*body {
 	max-width: 320px;
 }
 html {
 	max-width: 320px;
-}
+}*/
 #description {
 	font-size: 15px;
 	line-height: 1.6em;
