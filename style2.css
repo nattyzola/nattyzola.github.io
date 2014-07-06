@@ -1,0 +1,170 @@
+html, body {
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+}
+body {
+	font-family: raleway, helvetica;
+	font-weight: 300;
+	font-size: 13px;
+	color: #666;
+	line-height: 1.5em;
+	/*background-image: url("images/pamzolaweddings-edited.jpg");*/
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: 100%;
+	/*background-color: #e6ebef;*/
+}
+div {
+	margin: 0px;
+	padding: 0px;
+}
+.clearfix {
+	clear: both;
+}
+#top {
+	background-color: #e6ebef;
+	height: 20$;
+	width: 80%;
+	margin: auto;
+	display: block;
+}
+#content {
+	height: 60%;
+	width: 80%;
+	background-image: url("images/pamzolaweddings-edited.jpg");
+	background-position: top center;
+	margin: 0 auto;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	/*background-color: #333*/
+}
+#bottom {
+	background-color: #FFF;
+	height: 20%;
+}
+
+#nav {
+	/*width: 900px;*/
+	padding: 50px 0px;
+	margin: auto;
+	font-size: 16px;
+}
+#main_links {
+	text-align: center;
+}
+#contact_links {
+	float: right;
+}
+#nav a {
+	color: #a7884b;
+	padding: 0px 5px;
+	text-decoration: none;
+}
+#nav a:hover {
+	text-decoration: underline;
+}
+#icon {
+	margin: 30px auto;
+	display: block;
+	font-size: 48px;
+	text-align: center;
+	color: #9c779d;
+}
+#icon img {
+	width: 250px;
+}
+
+
+
+
+
+/*
+
+OLD
+
+html, body {
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+}
+body {
+	font-family: raleway, helvetica;
+	font-weight: 300;
+	font-size: 13px;
+	color: #666;
+	line-height: 1.5em;
+}
+div {
+	margin: 0px;
+	padding: 0px;
+}
+
+a {
+	color: #d81760;
+
+}
+p {
+	padding: 5px;
+}
+#header {
+	font-family: "Great Vibes", cursive;
+	font-size: 40px;
+}
+#header h1 {
+	font-size: 40px;
+}
+.sub {
+	font-family: raleway, helvetica;
+	font-weight: 200;
+	font-size: 28px;
+}
+#color {
+	height: 10px;
+	background-color: #d81760;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+}
+#content {
+	margin: auto;
+	max-width: 460px;
+	padding: 30px 10px 50px;
+	text-align: center;
+}
+#photo {
+	margin: auto;
+}
+#photo img {
+	margin: auto;
+	display: block;
+}
+#description {
+	width: 75%;
+	margin: auto;
+}
+.flower {
+	font-size: 28px;
+	color: #d81760;
+}
+.heart {
+	font-size: 18px;
+	color: #d81760;
+}
+
+@media only screen 
+and (max-width: 480px) {
+body, html {
+	width: auto;
+	padding: 0px;
+}
+#description {
+	font-size: 16px;
+	line-height: 1.6em;
+}
+#contact {
+	font-size: 15px;
+}
+}*/

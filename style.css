@@ -5,6 +5,197 @@ html, body {
 	height: 100%;
 }
 body {
+	font-family: 'Allura', raleway, helvetica;
+	font-weight: 300;
+	font-size: 13px;
+	color: #666;
+	line-height: 1.5em;
+/*	background-image: url("images/pamzolaweddings-edited.jpg");
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	background-size: 100%;
+	background-color: #e6ebef;*/
+	/*font-family: 'Bilbo Swash Caps';*/
+	/*font-family: 'Euphoria Script';*/
+	/*font-family: Bilbo;*/
+	/*font-family: Italianno;*/
+	/*font-family: 'Amatic SC';*/
+	/*font-family: 'Pinyon Script';*/
+
+
+
+
+
+
+
+
+
+}
+div {
+	margin: 0px;
+	padding: 0px;
+}
+.clearfix {
+	clear: both;
+}
+
+/*index 3*/
+
+#content {
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	padding: 20px 20px;
+	margin-bottom: 80px;
+}
+
+#header {
+}
+
+#logo {
+	padding: 30px;
+	font-size: 48px;
+	color: #777;
+}
+
+#a {
+	font-family: 'Bilbo Swash Caps';
+}
+#b {
+	font-family: 'Antic Slab';
+}
+#c {
+	font-family: 'Codystar';
+}
+#d {
+	font-family: 'Fredericka the Great';
+}
+#e {
+	font-family: 'Poiret One';
+	font-size: 50px;
+	color: #d81760;
+}
+#f {
+	font-family: 'Montez';
+}
+#g {
+	font-family: 'Almendra Display';
+}
+#h {
+	font-family: 'La Belle Aurore';
+}
+#i {
+	font-family: 'Antic Didone';
+}
+#j {
+	font-family: 'Tangerine';
+}
+#k {
+	font-family: 'Playball';
+}
+#l {
+	font-family: 'Shadows Into Light Two';
+}
+#m {
+	font-family: 'Playfair Display SC';
+}
+#n {
+	font-family: 'Amatic SC';
+	font-size: 62px;
+}
+#o {
+	font-family: 'Handlee';
+}
+#p {
+	font-family: 'Italianno';
+}
+#nav {
+	border-top: 1px dotted #dedede;
+	border-bottom: 1px dotted #dedede;
+	padding: 16px 10px 13px;
+	font-family: 'Rokkitt';
+	font-family: 'Josefin Sans';
+	font-size: 18px
+}
+
+#nav a {
+	color: #333;
+	text-decoration: none;
+	padding: 10px;
+}
+#nav a:hover {
+	/*text-decoration: underline;*/
+	color: #d81760;
+}
+
+#images {
+	width: 600px;
+	margin: 60px auto;
+	clear: both;
+}
+#images img {
+	float: left;
+	padding: 10px;
+}
+
+#footer {
+	clear: both;
+}
+.heart {
+	/*font-size: 28px;*/
+	color: #d81760;
+	padding: 0px 10px;
+}
+
+
+ /*Index 1*/
+
+/*#nav {
+	width: 900px;
+	padding: 50px 0px;
+	margin: auto;
+	font-size: 20px;
+}
+#main_links {
+	text-align: center;
+}
+#contact_links {
+	float: right;
+}
+#nav a {
+	color: #666;
+	padding: 0px 5px;
+	text-decoration: none;
+}
+#nav a:hover {
+	text-decoration: underline;
+}
+#icon {
+	margin: 30px auto;
+	display: block;
+	font-size: 48px;
+	text-align: center;
+	color: #666;
+}
+#icon img {
+	width: 250px;
+}
+*/
+
+
+
+
+/*
+
+OLD
+
+html, body {
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+}
+body {
 	font-family: raleway, helvetica;
 	font-weight: 300;
 	font-size: 13px;
@@ -15,6 +206,7 @@ div {
 	margin: 0px;
 	padding: 0px;
 }
+
 a {
 	color: #d81760;
 
@@ -80,4 +272,4 @@ body, html {
 #contact {
 	font-size: 15px;
 }
-}
+}*/
