@@ -50,11 +50,35 @@ div {
 }
 
 #header {
+	position: fixed;
+	top: 0px;
+	border-top: 10px solid #d81760;
+	border-bottom: 1px dotted #dedede;
+	background-color: #FFF;
+	width: 100%;
+	text-align: center;
+	padding: 20px 0px 18px;
+	
+}
+#nav a {
+	color: #333;
+	padding: 16px 10px 13px;
+	font-family: 'Rokkitt';
+	font-family: 'Josefin Sans';
+	font-size: 18px;
+	text-decoration: none;
+}
+#nav a:hover {
+	color: #d81760;
+}
+#logo {
+	text-align: center;
+	margin: auto;
+	width: 800px;
 }
 
-
 #logo h1 {
-	margin: 60px 0px 60px;
+	margin: 130px auto 20px;
 	line-height: 1.3em;
 	font-weight: normal;
 	color: #777;	
@@ -116,23 +140,7 @@ div {
 #p {
 	font-family: 'Italianno';
 }
-#nav {
-	border-top: 1px dotted #dedede;
-	border-bottom: 1px dotted #dedede;
-	padding: 16px 10px 13px;
-	font-family: 'Rokkitt';
-	font-family: 'Josefin Sans';
-	font-size: 18px
-}
 
-#nav a {
-	color: #333;
-	text-decoration: none;
-	padding: 10px;
-}
-#nav a:hover {
-	color: #d81760;
-}
 .intro h2 {
 	font-size: 16px;
 	font-family: 'raleway';
